@@ -1,0 +1,29 @@
+---
+title:  <span style="color:#003300;">Felipe Antonio Dzul Manzanilla</span>
+image: "https://github.com/fdzul/fadm/blob/main/fadm.jpg?raw=true"
+links:
+  - label: Atras
+    url: "https://sparkly-kleicha-e38ffa.netlify.app/"
+  - label: Bookdown
+    url: "https://resplendent-taffy-3740fa.netlify.app"
+    
+output:
+  postcards::trestles
+---
+ 
+##  **<span style="color:#003300;">Bookdown</span>**
+
+<span style="color:#660033;">
+
+
+  - [Manual para la Identificación de los Hotspots en Áreas Urbanas](https://fdzul.github.io/manual_hotspots/)
+  
+  - [Control de la Fauna Nociva e Insectos Transmisores de Enfermedades en Sitios Públicos](https://fdzul.github.io/control_fauna_nociva/)
+  
+  - [Manual para el Rociado Residual Intradomiciliario de los Artrópodos con Importancia en Salud Pública en México](https://fdzul.github.io/manual_irs/)
+  
+  - [Manual para la identificación de escenario epidemiológicos de la transmisión del dengue en México]()
+  
+  - []()
+
+</span>
